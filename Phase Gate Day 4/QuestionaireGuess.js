@@ -1,6 +1,6 @@
 const prompt = require("prompt-sync")();
 
-const Question = []
+const Question = [] +1
 const Answer = []
 
 let div = Math.floor(Math.random() * 10);
@@ -32,6 +32,82 @@ let div = Math.floor(Math.random() * 10);
 					}else{
 						console.log("Missed")
 					}
+
+				if(userInput === question[2][2] and userInput === Answer"A" = div){
+					console.log(div("Correct")
+					}else{
+						console.log("Missed")
+					}
+
+
+				if(userInput === question[3][3] and userInput === Answer"D" = div){
+					console.log(div("Correct")
+					}else{
+						console.log("Missed")
+					}
+				
+				if(userInput === question[4][4] and userInput === Answer"C" = div){
+					console.log(div("Correct")
+					}else{
+						console.log("Missed")
+					}
+
+				if(userInput === question[5][5] and userInput === Answer"A" = div){
+					console.log(div("Correct")
+					}else{
+						console.log("Missed")
+					}
+
+				if(userInput === question[6][6] and userInput === Answer"B" = div){
+					console.log(div("Correct")
+					}else{
+						console.log("Missed")
+					}
+
+
+				if(userInput === question[7][7] and userInput === Answer"B" = div){
+					console.log(div("Correct")
+					}else{
+						console.log("Missed")
+					}
+
+				if(userInput === question[8][8] and userInput === Answer"A" = div){
+					console.log(div("Correct")
+					}else{
+						console.log("Missed")
+					}
+
+
+				if(userInput === question[9][9] and userInput === Answer"B" = div){
+					console.log(div("Correct")
+					}else{
+						console.log("Missed")
+					}
+
+
+				if(userInput === question[10][10] and userInput === Answer"D" = div){
+					console.log(div("Correct")
+					}else{
+						console.log("Missed")
+					}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
