@@ -1,0 +1,24 @@
+let sequence = [1, 2, 3];
+ sequence.push(4);
+ sequence.push(5);
+ console.log(sequence);
+ // → [1, 2, 3, 4, 5]
+ console.log(sequence.pop());
+ // → 5
+ console.log(sequence);
+ // → [1, 2, 3, 4]
+
+
+push add values to numbers[1,2,3,]
+e.g sequence.push(4)
+while the pop take numbers out from the sequence, starting of the last digits in an array and return it.
+
+
+Object.keys
+this check the properties of what an object has.
+
+
+let objectA = {a: 1, b: 2};
+ Object.assign(objectA, {b: 3, c: 4});
+ console.log(objectA);
+ // → {a: 1, b: 3, c: 4}
